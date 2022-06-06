@@ -1,3 +1,5 @@
+效果预览：
+![image-20200910114631225](static/car.gif)
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
 Run this followed commands:
